@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "p",
+  "version": "1.0.0",
+  "main": "scrip.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DDHGDBNHDUEU/p.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DDHGDBNHDUEU/p/issues"
+  },
+  "homepage": "https://github.com/DDHGDBNHDUEU/p#readme",
+  "description": ""
+}
